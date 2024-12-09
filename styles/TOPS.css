@@ -1,0 +1,21 @@
+.topicos{
+    background-image: linear-gradient(rgb(136, 9, 62), rgb(146, 109, 196));
+    text-align: center;
+}
+
+.topico_titulo{
+    color: #000000ec;
+    font-weight: 500;
+    padding: 1em;
+}
+
+.lista{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.item{
+    padding: 2em 0.5em;
+    list-style: none;
+}
